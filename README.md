@@ -26,12 +26,12 @@ As a parent user, you set up tasks and their corresponding points for each of yo
 A child can earn points by doing tasks, and with enough points they can choose the reward they want.
 
 ## Installation
-First the user needs to install npm packages ```npm -i```, which should come with sequelize, mysql, and cloudinary. 
-The user needs to make sure to use mysql to get the db set and run the seeds ```npm run seed```.
+<!-- First the user needs to install npm packages ```npm -i```, which should come with sequelize, mysql, and cloudinary. 
+The user needs to make sure to use mysql to get the db set and run the seeds ```npm run seed```. -->
 
 
 ## Usage
-The user must make sure to run mysql to get the db and tables. Once this is done the user needs to run the seeds and get the server up and listening. From here the user can create or login to an account. After you have logged in you may add children, tasks, and stars to their profile page.User has the ability to add or remove children, tasks, and once a task is completed then add a star!
+<!-- The user must make sure to run mysql to get the db and tables. Once this is done the user needs to run the seeds and get the server up and listening. From here the user can create or login to an account. After you have logged in you may add children, tasks, and stars to their profile page.User has the ability to add or remove children, tasks, and once a task is completed then add a star!
 
 ## Example
 ![The basic table structure.](./public/images/table_structure.png)
@@ -42,7 +42,7 @@ The user must make sure to run mysql to get the db and tables. Once this is done
 ![This is the login page.](public/images/loginPg.png)
 
 github- https://github.com/swnova/starKids.git
-heroku- https://starkids-app.herokuapp.com/
+heroku- https://starkids-app.herokuapp.com/ -->
 
 
 ## Credits & Collaborations
